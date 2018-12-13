@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'srinivasadb.cozidat4hemk.ap-south-1.rds.amazonaws.com',
-	'username' => 'srinivasa',
-	'password' => 'srinivasa_123',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => 'root',
 	'database' => 'srinivasa',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
