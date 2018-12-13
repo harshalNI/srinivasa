@@ -1,0 +1,142 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-08-14 04:48:05 --> 404 Page Not Found: Login/index
+ERROR - 2017-08-14 04:49:11 --> Severity: Notice --> Undefined property: stdClass::$admin_role_id /home/bigappcompanyin/public_html/demos/finball-admin/admin/application/controllers/cms_admin/User.php 95
+ERROR - 2017-08-14 04:49:31 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 04:49:32 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:04:11 --> Severity: Notice --> Undefined property: stdClass::$admin_role_id /home/bigappcompanyin/public_html/demos/finball-admin/admin/application/controllers/cms_admin/User.php 95
+ERROR - 2017-08-14 06:04:14 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:04:15 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:05:21 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:05:21 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:08:24 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:08:24 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:08:59 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:09:03 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:13:54 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:13:54 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:17:36 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:17:36 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:18:39 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:18:40 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:22:42 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 06:22:42 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:31:44 --> Severity: Notice --> Undefined property: stdClass::$admin_role_id /home/bigappcompanyin/public_html/demos/finball-admin/admin/application/controllers/cms_admin/User.php 95
+ERROR - 2017-08-14 07:31:45 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:31:45 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:31:49 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:31:49 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:32:24 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:32:24 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:52:53 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:52:53 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:53:38 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:53:38 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:54:52 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:54:52 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:56:06 --> Severity: Notice --> Undefined property: stdClass::$admin_role_id /home/bigappcompanyin/public_html/demos/finball-admin/admin/application/controllers/cms_admin/User.php 95
+ERROR - 2017-08-14 07:56:12 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:56:12 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:56:17 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:56:17 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:57:31 --> Severity: Notice --> Undefined property: stdClass::$admin_role_id /home/bigappcompanyin/public_html/demos/finball-admin/admin/application/controllers/cms_admin/User.php 95
+ERROR - 2017-08-14 07:57:33 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:57:33 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:57:37 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:57:37 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:57:51 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:57:52 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:58:00 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:58:00 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:58:14 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:58:14 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:59:12 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 07:59:12 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 08:03:08 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 08:03:09 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 08:04:21 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 08:04:21 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 08:29:02 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 08:29:03 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 09:01:29 --> Severity: Notice --> Undefined property: stdClass::$admin_role_id /home/bigappcompanyin/public_html/demos/finball-admin/admin/application/controllers/cms_admin/User.php 95
+ERROR - 2017-08-14 09:01:31 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 09:01:31 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 09:01:34 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 09:01:34 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 09:05:58 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 09:05:58 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:45:38 --> Severity: Notice --> Undefined property: stdClass::$admin_role_id /home/bigappcompanyin/public_html/demos/finball-admin/admin/application/controllers/cms_admin/User.php 95
+ERROR - 2017-08-14 10:45:52 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:45:52 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:47:52 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:47:52 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:53:12 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:53:12 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:55:43 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:55:43 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:58:25 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 10:58:25 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 11:00:17 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 11:00:17 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 11:04:03 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 11:04:03 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 11:04:13 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 11:04:13 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 11:51:06 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 11:51:06 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 12:04:52 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 12:04:53 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:13:21 --> 404 Page Not Found: Demos/finball-admin
+ERROR - 2017-08-14 13:14:23 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:14:23 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:14:26 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:14:26 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:22:27 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:22:27 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:22:33 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:22:33 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:22:49 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:22:49 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:24:25 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:24:25 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:24:42 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:24:42 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:26:24 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:26:24 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:26:36 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:26:37 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:26:42 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:26:42 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:31:03 --> 404 Page Not Found: Demos/finball-admin
+ERROR - 2017-08-14 13:31:36 --> 404 Page Not Found: Demos/finball-admin
+ERROR - 2017-08-14 13:31:37 --> 404 Page Not Found: Demos/finball-admin
+ERROR - 2017-08-14 13:32:05 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:32:05 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:32:26 --> 404 Page Not Found: Assets/js
+ERROR - 2017-08-14 13:34:23 --> 404 Page Not Found: Assets/js
+ERROR - 2017-08-14 13:34:23 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:34:23 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:34:32 --> 404 Page Not Found: Assets/js
+ERROR - 2017-08-14 13:35:08 --> 404 Page Not Found: Assets/js
+ERROR - 2017-08-14 13:35:08 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 13:35:08 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:00:34 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:00:34 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:02:56 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:02:56 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:03:15 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:03:15 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:04:26 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:04:26 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:09:59 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:09:59 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:10:35 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:10:35 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:14:05 --> Severity: Notice --> Undefined property: stdClass::$admin_role_id /home/bigappcompanyin/public_html/demos/finball-admin/admin/application/controllers/cms_admin/User.php 95
+ERROR - 2017-08-14 14:14:06 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:14:07 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:15:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) /home/bigappcompanyin/public_html/demos/finball-admin/admin/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 2017-08-14 14:15:00 --> Unable to connect to the database
+ERROR - 2017-08-14 14:16:25 --> Severity: Notice --> Undefined property: stdClass::$admin_role_id /home/bigappcompanyin/public_html/demos/finball-admin/admin/application/controllers/cms_admin/User.php 95
+ERROR - 2017-08-14 14:16:27 --> 404 Page Not Found: Assets/css
+ERROR - 2017-08-14 14:16:27 --> 404 Page Not Found: Assets/css
